@@ -9,7 +9,7 @@ The goal of your agent is to maintain its position at the target location for as
 The game ends after 1001 steps
 
 ## Rewards:
-- arm touches the ball: +0.1
+- double-jointed arm touches the ball: +0.1
 
 ## State Action:
 The observation space consists of 33 variables corresponding to position, rotation, velocity, and angular velocities of the arm. 
