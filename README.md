@@ -17,6 +17,12 @@ Each action is a vector with four numbers, corresponding to torque applicable to
 - State: There are 33 features on each State
 - Action: There are 4 contunous possible actions to take in each State
 
+## Solve the Task
+In order to solve the environment, your agent must get an average score of +30 over 100 consecutive episodes
+
 # The Model:
-We will create a DDPG Model with Fixed Target and OUActionNoise
+We will create a DDPG Model with:
+- Replay Buffer
+- Fixed Target 
+- OUActionNoise
 
