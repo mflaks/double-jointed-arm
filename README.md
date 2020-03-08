@@ -3,6 +3,8 @@
 ## Goal
 The goal of your agent is to maintain its position at the target location for as many time steps as possible. It means that the double-jointed arm needs to touch the ball (target) as many many times as possible
 
+![double-jointed-arm](arm.JPG)
+
 ## Game Over
 The game ends after 1001 steps
 
