@@ -57,4 +57,4 @@ Step 3: Explore the Environment
 After you have followed the instructions above, open Continuous_Control.ipynb (located in the p2_continuous-control/ folder in the DRLND GitHub repository) and follow the instructions to learn how to use the Python API to control the agent.
 
 ## Run the Code
-run the file Continuous_Control.ipynb
+Run the file Continuous_Control.ipynb
